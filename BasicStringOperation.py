@@ -1,6 +1,6 @@
 """
 
-You will learn basic string operation
+You will learn basic string operation.
 
 """
 
